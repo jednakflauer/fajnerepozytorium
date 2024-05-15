@@ -1,4 +1,6 @@
 import random
+import math
+print(math.floor(2.5))
 dziennik=["jou", "kolega", "daje rade"]
 gierka=[]
 gierka2=[]
